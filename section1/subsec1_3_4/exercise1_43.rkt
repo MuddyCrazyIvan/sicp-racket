@@ -10,3 +10,4 @@
 (define (sqr a) (* a a))
 
 ((repeated sqr 2) 5)
+
